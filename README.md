@@ -4,7 +4,7 @@ Do you struggle fixing N+1 queries because is hard for you to detect why ActiveR
 
 Wouldn’t it be nice to just see some piece of code and know when the query will execute?
 
-Well… this is the code for [an exercise that will try to help you achieve this](https://bhserna.com/10-examples-to-learn-when-you-activerecord-query-will-be-executed.html)
+Well… this is the code for [an exercise that will try to help you achieve this](https://bhserna.com/10-examples-to-learn-when-your-activerecord-query-will-be-executed.html)
 … to help you identify when a query will execute by just watching the code :)
 
 You can use it to run the examples, and play with the the code to explore more.
